@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1503533E-4C79-EBA5-DF5C-00BC90981329}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE421",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
